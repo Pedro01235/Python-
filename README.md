@@ -1,12 +1,8 @@
 # Python
-# Projeto Python com API Postman: Um guia detalhado para iniciantes
+Este projeto demonstra como construir uma API simples em Python usando Flask e interagir com ela usando o Postman.
 
-# Este projeto demonstra como construir uma API simples em Python usando Flask e interagir com ela usando o Postman.
-
-# Objetivo:
-# Aprender os conceitos básicos de criação de APIs RESTful em Python e como usar o Postman para testar e interagir com essas APIs.
-
-# Funcionalidades:
+Objetivo:
+Aprender os conceitos básicos de criação de APIs RESTful em Python e como usar o Postman para testar e interagir com essas APIs.
 
 # Criar endpoints:
     /clientes: Cria um novo cliente (POST).
